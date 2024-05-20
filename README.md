@@ -3,7 +3,7 @@
 
 |*Nama|NIM|Kelas|Matkul*|
 |----|---|-----|------|
-|Delfyno Dwi prastyo|312310480|TI.23.A.5|Basis Data|
+|Ali mubaroq|312310452|TI.23.A.5|Basis Data|
 
 # Soal Latihan Praktikum
 
